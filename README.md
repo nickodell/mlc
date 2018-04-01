@@ -17,6 +17,8 @@ mlc walks the MarioLANG program and constructs a finite state machine, performs 
 * Input is line-buffered, unlike many mariolang implementations.
 * Memory is statically allocated, and no over/underflow checks are made.
 
-# Questions?
+# Other
 
-Contact the author at nickodell@gmail.com
+Questions? Contact the author at nickodell@gmail.com.
+
+mlc is inspired by a [blog post](https://blind.guru/MarioLANG.html) written by Mario Lang. This implementation is based upon an interpreter written by [mynery](https://github.com/mynery/mariolang.rb).
