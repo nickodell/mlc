@@ -4,7 +4,7 @@ MarioLANG Compiler (mlc) will compile programs from MarioLANG into C.
 
 # Usage
 
-    $ ./mariolang.py <program name>
+    $ ./mlc.py <program name>
     $ gcc ml.c
     $ ./a.out
 
