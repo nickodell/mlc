@@ -1,4 +1,9 @@
+__pycache__
+a.out
 bin
 include
 lib
 pip-selfcheck.json
+*.rb
+*.c
+*.out
